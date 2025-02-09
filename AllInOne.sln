@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Step0", "Step0", "{DF87B1AA-7DD1-4FCB-9595-317DC946BD5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Step1", "Step1", "{BA11D3C4-AAAB-47D2-A6D5-B667451AAE88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Step2", "Step2", "{15DEF26B-FF2C-4FE5-BB7A-060AEEB50EFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Step3", "Step3", "{92244AD6-4FE1-4EAC-9195-3EAF5B274508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionsAppSimple", "Step0\QuestionsAppSimple\QuestionsAppSimple.csproj", "{C6DCA703-BA97-4803-A5B4-31C13FC2F275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionsAppSimple", "Step1\QuestionsAppSimple\QuestionsAppSimple.csproj", "{7C727ED5-94E7-46A6-AF44-E5391A50196B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionsAppSimple", "Step2\QuestionsAppSimple\QuestionsAppSimple.csproj", "{4F2B22EA-2DE3-4F36-83A3-20E285FBD4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionsAppSimple", "Step3\QuestionsAppSimple\QuestionsAppSimple.csproj", "{9BE58817-7E58-4BCB-B863-359CC6098AC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{0390D0D4-ADE1-42D0-864F-A7F608643DD8}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		Step0.md = Step0.md
+		Step1.md = Step1.md
+		Step2.md = Step2.md
+		Step3.md = Step3.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6DCA703-BA97-4803-A5B4-31C13FC2F275} = {DF87B1AA-7DD1-4FCB-9595-317DC946BD5F}
+		{7C727ED5-94E7-46A6-AF44-E5391A50196B} = {BA11D3C4-AAAB-47D2-A6D5-B667451AAE88}
+		{4F2B22EA-2DE3-4F36-83A3-20E285FBD4ED} = {15DEF26B-FF2C-4FE5-BB7A-060AEEB50EFE}
+		{9BE58817-7E58-4BCB-B863-359CC6098AC4} = {92244AD6-4FE1-4EAC-9195-3EAF5B274508}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6DCA703-BA97-4803-A5B4-31C13FC2F275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DCA703-BA97-4803-A5B4-31C13FC2F275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DCA703-BA97-4803-A5B4-31C13FC2F275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DCA703-BA97-4803-A5B4-31C13FC2F275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C727ED5-94E7-46A6-AF44-E5391A50196B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C727ED5-94E7-46A6-AF44-E5391A50196B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C727ED5-94E7-46A6-AF44-E5391A50196B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C727ED5-94E7-46A6-AF44-E5391A50196B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2B22EA-2DE3-4F36-83A3-20E285FBD4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2B22EA-2DE3-4F36-83A3-20E285FBD4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2B22EA-2DE3-4F36-83A3-20E285FBD4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2B22EA-2DE3-4F36-83A3-20E285FBD4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE58817-7E58-4BCB-B863-359CC6098AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE58817-7E58-4BCB-B863-359CC6098AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE58817-7E58-4BCB-B863-359CC6098AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE58817-7E58-4BCB-B863-359CC6098AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
