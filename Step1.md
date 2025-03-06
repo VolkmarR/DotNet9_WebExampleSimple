@@ -1,4 +1,4 @@
-# Step 2 - Web Api implementation
+# Step 1 - Web Api implementation
 
 ## Implement the database model
 
