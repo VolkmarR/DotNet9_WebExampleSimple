@@ -28,7 +28,7 @@ To recreate this project, these four steps should be followed. For a detailed de
 
 Create new projects for the Web Application and add the Swagger UI.
 
-### [Step 1 - DB implementation](Step2.md)
+### [Step 1 - DB implementation](Step1.md)
 
 Add the implementation for the database access (SQLite).
 
